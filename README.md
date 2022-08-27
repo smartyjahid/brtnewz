@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ###BRTnewz
+![plot](https://github.com/smartyjahid/brtnewz/blob/master/screen%20shot/Screenshot_20220827-163326.jpg);
